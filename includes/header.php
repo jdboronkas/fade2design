@@ -14,8 +14,8 @@ You can also purchase a PSD-file for this template.
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title></title>
-<link href="style.css" rel="stylesheet" type="text/css"/>
+<title>Fade 2 Design</title>
+<link href="/style.css" rel="stylesheet" type="text/css"/>
 </head>
 
 <body>
@@ -23,12 +23,12 @@ You can also purchase a PSD-file for this template.
 
 <div id="slogan">Software Development and Design Blog</div>
 
-<div id="logo"><a href="#">Fade 2 Design</a></div>
+<div id="logo"><a href="/">Fade 2 Design</a></div>
 
 <div id="menu">
 <ul>
-<li class="active"><a href="#">Home</a></li>
-<li><a href="#">About Me</a></li>
+<li class="active"><a href="/">Home</a></li>
+<li><a href="/about">About Me</a></li>
 </ul>
 </div>
 
