@@ -16,15 +16,17 @@ License</a>. Use at your own risk.</p>
 <h2>Sample Code</h2>
 
 <pre class="prettyprint">
-#include &lt;iostream&gt;
+<?php echo htmlspecialchars('
+#include <iostream>;
 
 using namespace std;
 
 int main()
 {
-    cout &lt;&lt; "Hello World!" &lt;&lt; endl;
+    cout << "Hello World!" << endl;
     return 0;
 }
+'); ?>
 </pre>
 
 <?php require 'includes/footer.php';?>
