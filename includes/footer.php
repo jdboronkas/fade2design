@@ -20,6 +20,8 @@ Under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons
 
 </div>
 
+<script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+
 </body>
 </html>
 <!-- end footer -->

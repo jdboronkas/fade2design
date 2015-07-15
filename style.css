@@ -33,3 +33,7 @@ body {margin:0; font-family:"Comic Sans MS", cursive; background-color:#000000;}
 #footer a:hover {color:#888888;}
 #footer_left {float:left; padding:41px 0 0 50px;}
 #footer_right {float:right; padding:41px 50px 0 0;}
+
+.prettyprint {
+  background-color: white;
+}

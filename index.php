@@ -13,4 +13,18 @@ language with relatively little effort.</p>
 <a href="http://opensource.org/licenses/MIT" target="_blank">The MIT
 License</a>. Use at your own risk.</p>
 
+<h2>Sample Code</h2>
+
+<pre class="prettyprint">
+#include &lt;iostream&gt;
+
+using namespace std;
+
+int main()
+{
+    cout &lt;&lt; "Hello World!" &lt;&lt; endl;
+    return 0;
+}
+</pre>
+
 <?php require 'includes/footer.php';?>
