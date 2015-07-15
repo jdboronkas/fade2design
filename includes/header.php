@@ -25,9 +25,10 @@ You can also purchase a PSD-file for this template.
 
 <div id="logo"><a href="/">Fade 2 Design</a></div>
 
+<!-- use class "active" on li tags for current page highlights -->
 <div id="menu">
 <ul>
-<li class="active"><a href="/">Home</a></li>
+<li><a href="/">Home</a></li>
 <li><a href="/about">About Me</a></li>
 </ul>
 </div>
