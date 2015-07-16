@@ -30,6 +30,7 @@ You can also purchase a PSD-file for this template.
 <ul>
 <li><a href="/">Home</a></li>
 <li><a href="/about">About Me</a></li>
+<li><a href="/links">Recommended Reading/Links</a></li>
 </ul>
 </div>
 
